@@ -1,2 +1,2 @@
 # Connect-Four Game
-This is a simple Connect Four game made using Python. Two players take turns dropping discs into a grid, aiming to connect four in a row, column, or diagonal to win. The game runs in the command line and is easy to play.
+This is a simple Connect Four game made using Python. Two players take turns dropping discs into a grid, aiming to connect four in a row, column, or diagonal to win.The game checks for a win after each move and ends when a player wins or the board is full.User input is handled to choose columns,and the game runs in a loop until it's over.The game runs in the command line and is easy to play.
